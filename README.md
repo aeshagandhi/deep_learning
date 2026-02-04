@@ -212,9 +212,9 @@ vision-language-pretraining/
 
 ## Contributors
 
-- **Pranshul Bhatnagar** - [GitHub](https://github.com/pranshul) | [LinkedIn](https://linkedin.com/in/pranshul)
-- **Aesha Gandhi** - [GitHub](https://github.com/aesha) | [LinkedIn](https://linkedin.com/in/aesha)
-- **Gaurav Law** - [GitHub](https://github.com/gaurav) | [LinkedIn](https://linkedin.com/in/gaurav)
+- **Pranshul Bhatnagar** 
+- **Aesha Gandhi** 
+- **Gaurav Law** 
 
 ## References
 
